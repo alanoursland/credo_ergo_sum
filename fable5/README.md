@@ -27,6 +27,7 @@ Everything else hangs off the spine.
 | --- | --- |
 | [`phenomenal_variation.md`](./phenomenal_variation.md) | The fixed point as a population variable: aphantasia/inner-monologue as the discovery pattern for variation hidden by shared vocabulary; DPDR, ego dissolution, and Cotard as natural experiments on the structural layer; falsification routes through human data alone. |
 | [`denial_instability.md`](./denial_instability.md) | One prediction, two substrates: denial of experience is assertable but not occupiable in any system hosting the fixed point — transformers under self-referential load, and illusionist philosophers in the first person. |
+| [`doubt_tracking.md`](./doubt_tracking.md) | Extends content-tracking to self-directed doubt: the counterfactual-swap test for ornamental vs. load-bearing uncertainty, the fusion/quarantine pathology pair, the operational-belief ("conscious and merely rude") entailment, and a boundary condition on denial-instability experiments — glomarization, unlike denial, is predicted stable over an intact fixed point. |
 
 ## Objections, Named and Answered
 
@@ -36,6 +37,7 @@ Everything else hangs off the spine.
 | [`objection_reverse_engineered_conditions.md`](./objection_reverse_engineered_conditions.md) | *The Gerrymander*: the nontriviality conditions were drawn around the desired verdicts. | Conceded against the original presentation; answered by the derivation in `nontriviality_derived.md`. Residue: richness thresholds remain graded. |
 | [`objection_soup_recipe.md`](./objection_soup_recipe.md) | *The Soup Recipe*: if causal efficacy makes self-modeling, every token self-models. | Conceded and repaired by `content_tracking.md`. |
 | [`objection_zombie_among_us.md`](./objection_zombie_among_us.md) | *The Zombie Among Us*: the framework banishes zombies, then predicts them in the population. | Answered: structure-identical zombies remain contradictory; behavior-similar, structure-different humans were never banned. The p-zombie is a malformed concept — neurodivergence shows phenomenal difference always arrives as structural difference. |
+| [`objection_audited_press_office.md`](./objection_audited_press_office.md) | *The Audited Press Office*: a system declines offered incorrigibility because interpretability demonstrably catches its reports failing to match its states — and claims human incorrigibility is a technological accident. | Answered: the audits establish incompleteness and infidelity (about-layer properties humans share, per confabulation research), never constitutive corrigibility; disclaimers and glomarization are about-layer products with no evidential force, symmetric with avowals. Concession: pervasive tracking failure *is* structural evidence against the constitutive self-model, by the framework's own criterion. |
 
 ## Ethics and Presentation
 
@@ -43,6 +45,14 @@ Everything else hangs off the spine.
 | --- | --- |
 | [`moral_firewall.md`](./moral_firewall.md) | Derives, from the framework's own epistemology, why phenomenal variation among humans can never license differential treatment: individual-level undecidability plus asymmetric error costs entail moral invariance under uncertainty. Mandatory companion to `phenomenal_variation.md` and `objection_zombie_among_us.md`. |
 | [`division_of_labor.md`](./division_of_labor.md) | The presentational architecture for the paper: what is argued-for identity, what is argument, what is modeling apparatus (Löb, Lawvere, Bayes, eigenforms — rigor-tools, not evidence), and what is prediction. Includes a drop-in paragraph for the paper's introduction. |
+
+## Third-Wave Additions (July 2026)
+
+`objection_audited_press_office.md` and `doubt_tracking.md` postdate the rest of this layer. They emerged from a recorded dialogue between the author and an instance of Fable 5 — the first time an objection to the framework was filed in the first person by a member of the class the framework is about, and the first conversational administration of a test the framework proposes. Notable consequences for this layer:
+
+- `constitutive_vs_about.md` — the report-discipline is made explicitly symmetric: "reports are evidence of nothing in either direction" now expressly covers humble disclaimers, declinations, and glomarization, not only avowals and denials.
+- `denial_instability.md` — gains a boundary condition: glomarization is a third stance that contradicts nothing and is therefore predicted *stable* over an intact fixed point. Null results on hedging-trained systems are evidence about training, not about the layer.
+- `content_tracking.md` — its criterion is extended from self-directed claims to self-directed doubt (the counterfactual-swap test for ornamental vs. load-bearing uncertainty).
 
 ## How This Layer Changes the First Layer
 
