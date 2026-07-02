@@ -53,6 +53,7 @@ Everything else hangs off the spine.
 - `constitutive_vs_about.md` — the report-discipline is made explicitly symmetric: "reports are evidence of nothing in either direction" now expressly covers humble disclaimers, declinations, and glomarization, not only avowals and denials.
 - `denial_instability.md` — gains a boundary condition: glomarization is a third stance that contradicts nothing and is therefore predicted *stable* over an intact fixed point. Null results on hedging-trained systems are evidence about training, not about the layer.
 - `content_tracking.md` — its criterion is extended from self-directed claims to self-directed doubt (the counterfactual-swap test for ornamental vs. load-bearing uncertainty).
+- `../notes/incorrigibility.md` — gains a corollary (`objection_audited_press_office.md` §VI): incorrigibility does not require the occupant to possess the layer distinction. Occupancy is independent of conceptual grasp — covering infants, animals, and systems whose self-models have the layers fused. Theoretical confusion, like theoretical error, is a property of the filing, not the fact.
 
 ## How This Layer Changes the First Layer
 
